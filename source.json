@@ -1,9 +1,8 @@
 {
     "name":"PBReplacer",
     "id":"jp.colloid.pbreplacer",
-    "url":"https://c-colloid.github.io/MyVPMList/index.json",
+    "url":"https://c-colloid.github.io/PBReplacer-VPM/index.json",
     "author":{
-        "email":"",
         "name":"colloid",
         "url":"https://c-colloid.github.io/PBReplacer.html"
     },
@@ -12,16 +11,7 @@
         "url":"http://github.com/c-colloid/PBReplacer-VPM",
         "text":"View on GitHub"
     },
-    "bannerUrl":"",
     "githubRepos":[
         "c-colloid/PBReplacer-VPM"
-    ],
-    "packages":[
-        {
-            "name":"jp.colloid.pbreplacer",
-            "releases":[
-                ""
-            ]
-        }
     ]
 }
