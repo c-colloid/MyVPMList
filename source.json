@@ -13,7 +13,6 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "c-colloid/PBReplacer-VPM",
-        "c-colloid/BoneSelector-VPM"
+        "c-colloid/PBReplacer-VPM"
     ]
 }
