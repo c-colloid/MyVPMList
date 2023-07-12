@@ -1,14 +1,14 @@
 {
-    "name":"PBReplacer",
-    "id":"jp.colloid.pbreplacer",
+    "name":"ｺﾛｲﾄﾞのVPM",
+    "id":"jp.colloid",
     "url":"https://c-colloid.github.io/MyVPNList/index.json",
     "author":{
         "name":"colloid",
-        "url":"https://c-colloid.github.io/PBReplacer.html"
+        "url":"https://c-colloid.github.io/"
     },
     "description":"Organize PhysBone and PhysBoneCollider components attached to avatars into 1 object = 1 component.",
     "infoLink":{
-        "url":"http://github.com/c-colloid/PBReplacer-VPM",
+        "url":"http://github.com/c-colloid/",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
