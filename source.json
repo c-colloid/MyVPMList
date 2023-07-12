@@ -1,27 +1,26 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"PBReplacer",
+    "id":"jp.colloid.pbreplacer",
+    "url":"https://c-colloid.github.io/PBReplacer-VPM/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"",
+        "name":"colloid",
+        "url":"https://c-colloid.github.io/PBReplacer.html"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Organize PhysBone and PhysBoneCollider components attached to avatars into 1 object = 1 component.",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/c-colloid/PBReplacer-VPM",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png",
+    "bannerUrl":"",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "c-colloid/PBReplacer-VPM"
     ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"jp.colloid.pbreplacer",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                ""
             ]
         }
     ]
